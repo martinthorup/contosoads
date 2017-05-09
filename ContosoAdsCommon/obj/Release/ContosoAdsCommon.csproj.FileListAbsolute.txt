@@ -1,0 +1,9 @@
+C:\Users\Martin Thorup\Downloads\Simple Azure Website with WebJobs using the WebJobs SDK\C#\ContosoAdsCommon\bin\Release\ContosoAdsCommon.dll.config
+C:\Users\Martin Thorup\Downloads\Simple Azure Website with WebJobs using the WebJobs SDK\C#\ContosoAdsCommon\bin\Release\ContosoAdsCommon.dll
+C:\Users\Martin Thorup\Downloads\Simple Azure Website with WebJobs using the WebJobs SDK\C#\ContosoAdsCommon\bin\Release\ContosoAdsCommon.pdb
+C:\Users\Martin Thorup\Downloads\Simple Azure Website with WebJobs using the WebJobs SDK\C#\ContosoAdsCommon\bin\Release\EntityFramework.dll
+C:\Users\Martin Thorup\Downloads\Simple Azure Website with WebJobs using the WebJobs SDK\C#\ContosoAdsCommon\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Martin Thorup\Downloads\Simple Azure Website with WebJobs using the WebJobs SDK\C#\ContosoAdsCommon\bin\Release\EntityFramework.xml
+C:\Users\Martin Thorup\Downloads\Simple Azure Website with WebJobs using the WebJobs SDK\C#\ContosoAdsCommon\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Martin Thorup\Downloads\Simple Azure Website with WebJobs using the WebJobs SDK\C#\ContosoAdsCommon\obj\Release\ContosoAdsCommon.dll
+C:\Users\Martin Thorup\Downloads\Simple Azure Website with WebJobs using the WebJobs SDK\C#\ContosoAdsCommon\obj\Release\ContosoAdsCommon.pdb
